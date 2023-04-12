@@ -4,7 +4,7 @@ Kick-start your project with this boilerplate for a complete Next.js website bas
 
 ## 🚀 Quick start
 
-We suggest that you use the CLI and choose this starter.  
+We suggest that you use the CLI and choose this starter.
 In this way you will have the credentials already set up in a `.env.local` file:
 
 ```bash
@@ -22,3 +22,5 @@ git clone https://github.com/reactbricks/nextjs-starter-reactbricks-tailwind you
 ## 📖 Documentation
 
 Please, read our documentation at [Reactbricks.com](https://reactbricks.com).
+
+taikool2121996
