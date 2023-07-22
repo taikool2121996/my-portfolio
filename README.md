@@ -1,5 +1,5 @@
 # 2D Portfolio Website with React Bricks
-![3D Portfolio](https://user-images.githubusercontent.com/72439970/231541265-4cb47f03-5f1e-4791-aa4c-0149a505f829.png)
+![3D Portfolio](https://user-images.githubusercontent.com/72439970/255315353-0b988935-9038-435b-9c0f-e0c84afe9c22.png)
 
 ## Introduction
 
